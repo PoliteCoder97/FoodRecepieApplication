@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="view_s">4dp</dimen>
+    <dimen name="view_m">8dp</dimen>
+    <dimen name="view_l">12dp</dimen>
+    <dimen name="view_xl">16dp</dimen>
+    <dimen name="view_xxl">20dp</dimen>
+
+    <dimen name="text_s">12dp</dimen>
+    <dimen name="text_m">16dp</dimen>
+    <dimen name="text_l">20dp</dimen>
+    <dimen name="text_xl">24dp</dimen>
+
+    <dimen name="app_corner">16dp</dimen>
+
+
+</resources>
